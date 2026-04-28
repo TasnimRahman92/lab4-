@@ -22,17 +22,17 @@ The program also includes interactive keyboard controls to modify the triangle�
 ## Key Functionality
 
 1.Triangle Behavior
-  - Initial color: Cyan
-  - Gradually transitions from Cyan → Magenta (animated)
-2.Keyboard Controls
- Press W
-  - Triangle becomes white while holding the key
-  - When released → animation resumes
- Press R
-  - Triangle becomes red permanently
-  - Animation stops and does not resume
- Press T (first letter of name)
-  - Closes the window
+   - Initial color: Cyan
+   - Gradually transitions from Cyan → Magenta (animated)
+2. Keyboard Controls
+ a. Press W
+   - Triangle becomes white while holding the key
+   - When released → animation resumes
+ b. Press R
+   - Triangle becomes red permanently
+   - Animation stops and does not resume
+ c. Press T (first letter of name)
+   - Closes the window
 
 ## Window Settings
 - Window title: 0432320005101092
