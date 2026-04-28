@@ -1,12 +1,12 @@
 # lab4-
-##Author
+## Author
 Tasnim Rahman
 
-##Description
+## Description
 This program creates an OpenGL window that displays a single triangle. Initially, the triangle is colored cyan and smoothly transitions to magenta over time using animation.
 The program also includes interactive keyboard controls to modify the triangleâ€™s color and behavior dynamically.
 
-##Language & Tools
+## Language & Tools
 - C++
 - OpenGL (GLFW + GLAD)
 - VS Code
@@ -19,7 +19,7 @@ The program also includes interactive keyboard controls to modify the triangleâ€
 3. Run the program:
    main.cpp
 
-##Key Functionality
+## Key Functionality
 
 1.Triangle Behavior
   -Initial color: Cyan
@@ -34,9 +34,9 @@ The program also includes interactive keyboard controls to modify the triangleâ€
  Press T (first letter of name)
   -Closes the window
 
-##Window Settings
+## Window Settings
 -Window title: 0432320005101092
 -Displays a single animated triangle
 
-##Proof of Execution
+## Proof of Execution
 The output screenshot with VS Code terminal and OpenGL window is attached in the classroom submission.
