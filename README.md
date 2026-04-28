@@ -25,13 +25,13 @@ The program also includes interactive keyboard controls to modify the triangle�
    - Initial color: Cyan
    - Gradually transitions from Cyan → Magenta (animated)
 2. Keyboard Controls
- a. Press W
+ - Press W
    - Triangle becomes white while holding the key
    - When released → animation resumes
- b. Press R
+ - Press R
    - Triangle becomes red permanently
    - Animation stops and does not resume
- c. Press T (first letter of name)
+ - Press T (first letter of name)
    - Closes the window
 
 ## Window Settings
